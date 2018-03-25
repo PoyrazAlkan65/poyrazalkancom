@@ -1,0 +1,10 @@
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\bin\Debug\netcoreapp2.0\poyrazalkan.com.deps.json
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\bin\Debug\netcoreapp2.0\poyrazalkan.com.runtimeconfig.json
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\bin\Debug\netcoreapp2.0\poyrazalkan.com.runtimeconfig.dev.json
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\bin\Debug\netcoreapp2.0\poyrazalkan.com.dll
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\bin\Debug\netcoreapp2.0\poyrazalkan.com.pdb
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\obj\Debug\netcoreapp2.0\poyrazalkan.com.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\obj\Debug\netcoreapp2.0\poyrazalkan.com.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\obj\Debug\netcoreapp2.0\poyrazalkan.com.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\obj\Debug\netcoreapp2.0\poyrazalkan.com.dll
+C:\Users\berka\OneDrive\Belgeler\GitHub\poyrazalkancom\obj\Debug\netcoreapp2.0\poyrazalkan.com.pdb

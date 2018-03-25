@@ -12535,23 +12535,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jarvis\\.nuget\\packages\\": {},
+    "C:\\Users\\berka\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jarvis\\Desktop\\poyrazalkan.com\\poyrazalkan.com.csproj",
+      "projectUniqueName": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\poyrazalkancom\\poyrazalkan.com.csproj",
       "projectName": "poyrazalkan.com",
-      "projectPath": "C:\\Users\\jarvis\\Desktop\\poyrazalkan.com\\poyrazalkan.com.csproj",
-      "packagesPath": "C:\\Users\\jarvis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jarvis\\Desktop\\poyrazalkan.com\\obj\\",
+      "projectPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\poyrazalkancom\\poyrazalkan.com.csproj",
+      "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\poyrazalkancom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jarvis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\berka\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
